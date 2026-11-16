@@ -28,7 +28,7 @@ dependencies = [
     "cloudflare==5.2.0",
     "crowdstrike-falconpy==1.6.2",
     "databricks-sdk==0.133.0",
-    "dnspython==2.7.0",
+    "dnspython==2.9.2",
     "docker==7.1.0",
     "duckdb==1.4.3",
     "google-auth==2.48.0",

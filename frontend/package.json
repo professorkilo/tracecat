@@ -139,12 +139,12 @@
     "use-stick-to-bottom": "1.1.1",
     "uuid": "11.1.1",
     "yaml": "2.8.3",
-    "zod": "3.25.76"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@biomejs/biome": "2.0.4",
     "@biomejs/cli-darwin-arm64": "2.2.4",
-    "@hey-api/openapi-ts": "0.48.3",
+    "@hey-api/openapi-ts": "0.97.3",
     "@hookform/devtools": "4.4.0",
     "@playwright/test": "1.58.2",
     "@shadcn/helpers": "0.2.0",
